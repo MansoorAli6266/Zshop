@@ -56,3 +56,8 @@ Visit localhost:8000 in your browser
 Visit /admin if you want to access the admin panel. Admin Email/Password: admin@gmail.com/1111. User Email/Password: user@gmail.com/1111
 Thank You so much for your time !!!
 
+
+Author Contact
+Contact me with any questions!
+
+Email: mansooralikhn252@gmail.com Whatsapp: +92 318-8485570
